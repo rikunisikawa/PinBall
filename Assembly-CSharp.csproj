@@ -57,6 +57,7 @@
      <Compile Include="Assets\FripperController.cs" />
      <Compile Include="Assets\ScoreController.cs" />
      <Compile Include="Assets\StarController.cs" />
+     <Compile Include="Assets\TotalScoreController.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Users/nishikawariku/Desktop/活動/TechAcademy/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>

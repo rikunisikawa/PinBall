@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class FripperController : MonoBehaviour {
-	private HingeJoint myHingeJoint;
+	private HingeJoint myHingeJoint;//myの意味　
 
 	private float defaultAngle = 20;
 	private float flickAngle = -20;
